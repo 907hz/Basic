@@ -1,0 +1,8 @@
+@media (max-width:800px) {#grid{display:none;}}
+body {margin:0px;}
+#grid {display:grid; grid-template-columns: 150px 1fr;}
+ a {text-decoration: none;}
+ .out {color:black;}
+ h1 {border-bottom:2px solid black; border-width:3px; 
+     display:block; padding:30px; margin:0px; text-align: center;}
+ ol {border-right:2px solid black; width:70px; margin:0px; padding:25px;}
